@@ -1,9 +1,9 @@
 import os
 import BeautifulSoup
 import re
-import nltk
+#import nltk
 
-from nltk.corpus import WordNetCorpusReader
+#from nltk.corpus import WordNetCorpusReader
 import graph
 import sys
 
