@@ -77,6 +77,7 @@ def main():
 
     return snippets
 
+edges_counter = {}
 
 def create_pairs(snippets):
     pairs_per_snippet = {}
@@ -85,23 +86,26 @@ def create_pairs(snippets):
         for i in range(len(words) - 1):
             for j in range(i + 1, len(words)):
                 if snippet in pairs_per_snippet:
-                    pairs_per_snippet[snippet].append([words[i], words[j], 0, 0.0])
+                    pairs_per_snippet[snippet].append([words[i], words[j], None])
                 else:
-                    pairs_per_snippet[snippet] = [[words[i], words[j], 0, 0.0]]
+                    pairs_per_snippet[snippet] = [[words[i], words[j], None]]
     return pairs_per_snippet
 
 def check_if_exists(pairs, edges):
     for pair in pairs:
         for edge in edges:
             if pair[0] == edge[0] and pair[1] == edge[1] or pair[0] == edge[1] and pair[1] == edge[0]:
-                pair[2] += 1
-                pair[3] = edge.attr['weight']
+                pair[2] = edge
+                if edge in edges_counter:
+                    edges_counter[edge] += 1
+                else:
+                    edges_counter[edge] = 1
 
 
 def filter_results(pairs):
     results = []
     for pair in pairs:
-        if (pair[2] != 0):
+        if (pair[2]):
             results.append(pair)
     return results
 
@@ -116,4 +120,5 @@ if __name__=='__main__':
         if len(new_pairs) != 0:
             print snippet
             for pair in new_pairs:
-                print pair[0], pair[1], pair[2], pair[3]
+                print pair[0], pair[1], edges_counter[pair[2]], pair[2].attr['weight']
+    print edges_counter

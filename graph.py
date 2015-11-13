@@ -35,4 +35,4 @@ if __name__ == '__main__':
     graph.draw(title + '.png')
 
 def get_edges():
-    return graph.edges();
+    return graph.edges()
