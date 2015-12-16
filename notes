@@ -19,3 +19,26 @@ Używamy A, B, C do tworzenia par.
 B - czasowniki do tworzenia fragmentów zdaniopodobnych.
 
 Pomijamy: 1, 45, 46, 47, 13, 14
+
+
+---
+
+tworzymy minimalne wyrazenie ktore ma slowa z pary
+
+a - b
+a x b
+kradziez - pieniadz (przerabiamy na poprawne wyrazenie)
+np. kradziez pieniedzy
+kradziez - zlodziej
+zlodziej dokonal kradziezy
+relacja semantyczna jest sprawca kradziezy
+na koniec PDF podpisany imieniem i nazwiskiem
+zbior wycinkow tekstow z dopasowanymi parami z wagami itd
+wyrazenia wyjasniajace relacje
+jeszcze spostrzezenia
+
+byc nie moze byc terminalnym czasownikiem
+
+ czasami sa tylko relacje gramatyczne albo przeciwienstwa
+
+ wspolczynnik ile udalo sie par z grafu znalezc w wycinkach

@@ -1,0 +1,37 @@
+cieszyć... ten dom , ściany już wrastają
+	dom ściany 1 0.00222222222222
+wiem, gdzie jest mój dom ... - powiedziała
+	mój dom 5 0.0211111111111
+czekał dom dziecka. Postanowili
+	dom dziecka 4 0.00333333333333
+rezyduje. Ostatnio był tam dom dziecka. Okazało
+	dom dziecka 4 0.00333333333333
+podpalą mój dom , zgwałcą
+	mój dom 5 0.0211111111111
+zbudujesz własny dom , który nie jest skazany
+	własny dom 3 0.00777777777778
+opuściła mój dom – musiał
+	mój dom 5 0.0211111111111
+utrzymać dom , i żeby matka miała
+	dom matka 1 0.00666666666667
+Lubię mój dom i on lubi
+	mój dom 5 0.0211111111111
+odwiedzić dom dziecka. − Przecież muszę
+	dom dziecka 4 0.00333333333333
+mieć własne mieszkanie, dom , do którego się wraca
+	własne mieszkanie 1 0.0333333333333
+	mieszkanie dom 1 0.374444444444
+pocieszali się rodzice. Przez dom przewalił
+	rodzice dom 1 0.00555555555556
+porzuciłam dom rodzinny, bo uważałam
+	dom rodzinny 1 0.54
+pokazać państwu mój dom i poczęstować
+	mój dom 5 0.0211111111111
+dać tylko dom . Od dziecka należy
+	dom dziecka 4 0.00333333333333
+miała już własny dom . Ja się przypadkiem dowiedziała
+	własny dom 3 0.00777777777778
+prowadził dom otwarty. - Nie chcę
+	dom otwarty 1 0.00333333333333
+wybudować własny dom , wyprowadził
+	własny dom 3 0.00777777777778

@@ -1,5 +1,5 @@
 (lp0
-Vjest dom . Gdzie\u015b si\u0119 zapodzia\u0142a
+Vpokazywa\u0142, gdzie jest dom . Gdzie\u015b si\u0119 zapodzia\u0142a
 p1
 aVpodjechali pod dom . Leszek wyjmuje
 p2
@@ -19,710 +19,596 @@ aVOkr\u0105\u017cy\u0142a dom i nie chc\u0105c
 p9
 aVni\u017c dom , nie wzbudza\u0142o
 p10
-aVpodkre\u015bli\u0142 - \u017ce ten dom jest
-p11
 aVmin\u0119\u0142a dom , w którym mieszkaj\u0105
-p12
+p11
 aVKupili\u015bcie dom . On zniszczy
-p13
+p12
 aVpocieszali si\u0119 rodzice. Przez dom przewali\u0142
+p13
+aVukryty by\u0142 olbrzymi dwupi\u0119trowy dom ; widzia\u0142
 p14
-aVby\u0142 olbrzymi dwupi\u0119trowy dom ; widzia\u0142
-p15
 aVprowadzi\u0142 dom otwarty. - Nie chc\u0119
-p16
+p15
 aVWyszed\u0142em przed dom . A wi\u0119c by\u0142em
-p17
+p16
 aVzmieni\u0119 tej mordowni w dom , b\u0119d\u0119
-p18
+p17
 aVznalaz\u0142a w Litorowie swój dom . - Co\u015b pana dr\u0119czy
-p19
+p18
 aVwyszli\u015bmy przed dom . Zobaczyli\u015bmy
-p20
+p19
 aVtaksowa\u0142 dom . Zmru\u017cy\u0142
-p21
+p20
 aVwyszed\u0142em przed dom i odda\u0142em
-p22
-aVopu\u015bci\u0107 ten dom . Mo\u017ce to jest
-p23
+p21
 aVWyszed\u0142em przed dom i chodzi\u0142em
-p24
+p22
 aVObeszli dom , spisali
-p25
+p23
 aVWyszli\u015bmy przed dom . Patrzy\u0142a
-p26
+p24
 aVwyszed\u0142em przed dom , ptaki szala\u0142y.
-p27
-aVby\u0142 nasz dom . "\u017bono - mówi\u0142
-p28
+p25
 aVzbudowa\u0107 dom , zasadzi\u0107
-p29
+p26
 aVpodoba ci si\u0119 nasz dom ? - spyta\u0142a
-p30
+p27
 aVtraktowa\u0107 t\u0119 obskurn\u0105 nor\u0119 jako dom ? Nonsens. Przyjrza\u0142em
-p31
-aVjest nasz dom ? - zapyta\u0142em
-p32
-aVjest nasz dom - odpar\u0142a
-p33
+p28
 aVWybieg\u0142em przed dom . Rozejrza\u0142em
-p34
+p29
 aVzagradza\u0142 dalsz\u0105 drog\u0119. Nasz dom . Spojrza\u0142em
-p35
+p30
 aVwychodzili\u015bmy przecie\u017c przed dom , i stara\u0142em
-p36
-aVmin\u0105\u0142em ju\u017c nasz dom , a mo\u017ce by\u0142
-p37
+p31
 aVrozpoznawa\u0107 nasz dom ma charakterystyczny zapach. Poci\u0105gn\u0105\u0142
-p38
-aVjest nasz dom - powiedzia\u0142a
-p39
-aVby\u0142 mój dom . Nie by\u0142
-p40
+p32
 aVb\u0119dzie nasz dom - mówi\u0119
-p41
-aVjest nasz dom jest
-p42
-aVjest nasz dom jest
-p43
-aVjest nasz dom , mój warsztat je\u017celi zechc\u0119
-p44
+p33
 aVLubi\u0119 mój dom i on lubi
-p45
+p34
 aVurz\u0105dzony dom , któ­ry zaspokaja
-p46
+p35
 aVdocenia\u0107 dom \u201d \u2013 powiedzia\u0142o
-p47
-aVby\u0142 dom s\u0142u\u017cy\u0142
-p48
+p36
 aVzostawi\u0142 i ten dom . Nie wszystko przepi\u0142.
-p49
+p37
 aVpokaza\u0107 najlepszy dom dla Hauptmanna. B\u0119dzie
-p50
+p38
 aVutrzyma\u0107 dom , wychowa\u0107
-p51
-aVzostawi\u0142a dom rodzinny, który by\u0142
-p52
+p39
 aVpodrzuci\u0107 si\u0119 pod dom . Niania sta\u0142a
-p53
+p40
 aVmia\u0142a swój dom , to kupi
-p54
+p41
 aVni\u017c zwykle. Przed dom zajecha\u0142y
-p55
+p42
 aVWiedzia\u0142a, \u017ce \u017caden dom nie ukryje
-p56
+p43
 aVbudzi\u0142 przera\u017aliwym krzykiem ca\u0142y dom . - Co si\u0119 dzieje
-p57
+p44
 aVpachnie dom , w którym zasypia
-p58
+p45
 aVzadbany dom i uzna\u0142a,
-p59
+p46
 aVpilnowa\u0107, \u017ceby si\u0119 ten dom nie rozpad\u0142.
-p60
-aVby\u0142 to czas, kiedy dom Boga oblegany
-p61
+p47
 aVopuszcza\u0107 dom , Hannelore z wahaniem zaproponowa\u0142a
-p62
-aVjest te\u017c i jej dom - og\u0142asza\u0142a
-p63
+p48
 aVwychuchany dom trafi\u0142a
-p64
+p49
 aVwidz\u0105c jej nieobecny wzrok - dom zawsze mo\u017cna
-p65
+p50
 aVwysz\u0142a przed dom i usiad\u0142a
-p66
+p51
 aVodbija\u0142 si\u0119 ich przedwojenny dom i serce Franciszka zamiera\u0142o
-p67
+p52
 aVmog\u0142o, \u017ce ca\u0142y dom skurczy\u0142
-p68
+p53
 aVopad\u0142 na jej dom . Narysowany
-p69
+p54
 aVczeka\u0142o na dom , który Klaus postawi\u0142by
-p70
+p55
 aVwymkn\u0119\u0142a si\u0119 przed dom . Dzie\u0144 mo\u015bci\u0142
-p71
+p56
 aVutrzyma\u0107 ten dom ? To, co zarobi
-p72
+p57
 aVprzyjdzie czas, \u017ce dom upomni
-p73
+p58
 aVsprzeda\u0107 ten dom . Sprzeda
-p74
-aVjest mój dom ! Nikt niczego nie zamierza
-p75
+p59
 aVda\u0142 za ten dom ) i nagle: patrzcie
-p76
+p60
 aVprzerzuci si\u0119 na dom . Woda, któr\u0105 wlewali
-p77
+p61
 aVOdprowadzi\u0142em ich pod dom wariatów. Szymon poda\u0142
-p78
+p62
 aVdzieli ten sam dom w dyplomatyczny sposób.
-p79
+p63
 aVchcieli\u015bmy. Nasz dom si\u0119 buduje,
-p80
+p64
 aVzbudowa\u0142 drewniany dom dla swoich dzieci. Chcia\u0142
-p81
-aVodpoczywa\u0107. Ten dom by\u0142
-p82
+p65
 aVPoszed\u0142em za dom i wali\u0142em
-p83
+p66
 aVprowadzi\u0142a dom , nie ogl\u0105daj\u0105c
-p84
+p67
 aVznalaz\u0142am ten dom , zaproponowa\u0142am
-p85
+p68
 aVw\u015bciek\u0142a, \u017ce dom zamienia
-p86
+p69
 aVodszed\u0142. Pod dom zajecha\u0142
-p87
+p70
 aVdzwonili, \u017ce dom chc\u0105
-p88
+p71
 aVzacz\u0119li, dom niby ogl\u0105daj\u0105,
-p89
+p72
 aVchcieli dom w melin\u0119 zamieni\u0107.
-p90
-aVwyjecha\u0142, ale dom jest
-p91
+p73
 aVchcia\u0142a dom zostawia\u0107,
-p92
+p74
 aVsprzeda\u0142a dom i wyjecha\u0142a
-p93
+p75
 aVChod\u017amy do dom . Prowadz\u0119
-p94
+p76
 aVznalaz\u0142by dla niej nowy dom . Ale musia\u0142o
-p95
+p77
 aVmaj\u0105 dom i mieszkaj\u0105
-p96
+p78
 aVzjadaj\u0105 w\u0142a\u015bnie dom . Spójrz,
-p97
+p79
 aVpo\u017cegna\u0107 stary dom . Jest
-p98
+p80
 aVZabrano mu ten dom , \u017ceby uwi\u0119zi\u0107
-p99
-aVokaza\u0142o si\u0119, \u017ce dom jest
-p100
+p81
+aVokaza\u0142o si\u0119, \u017ce dom jest nawiedzony.
+p82
 aVPostaramy si\u0119, \u017ceby dom wyszed\u0142
-p101
+p83
 aVo\u015bwietlony dom , \u017ce wyszed\u0142
-p102
-aVjest wspania\u0142y dom koncertowy? Tam b\u0119dziemy
-p103
+p84
 aVwszed\u0142 nigdy w ten dom - odpar\u0142
-p104
+p85
 aVoznajmiaj\u0105c Ab-Ramowi, \u017ce dom zosta\u0142
-p105
+p86
 aVJest te\u017c dom , który naby\u0142e\u015b,
-p106
+p87
 aVOdwiedz\u0119 twój dom , skoro je
-p107
+p88
 aVwyszed\u0142 przed dom . Obskoczyli
-p108
+p89
 aVobejrzy dom , w którym mieszkali,
-p109
+p90
 aVporzuci\u0142 dom na swoje nieszcz\u0119\u015bcie. Powraca
-p110
+p91
 aVwdarli podst\u0119pnie w ten dom i cicho si\u0119 skryli
-p111
-aVgrzebano i dom jest
-p112
+p92
+aVgrzebano i dom jest czysty, pozwoli\u0142
+p93
 aVuprzedzi\u0142em BOR, \u017ce dom premiera mo\u017ce zrobi\u0107
-p113
+p94
 aVWpakowa\u0142 w s\u0105siedni dom dwa pociski. Raz trafi\u0142
-p114
+p95
 aVDopiera\u0142y w dom s\u0105siadów. Uciekinier zwali\u0142
-p115
+p96
 aVuznaj\u0105, \u017ce dom sp\u0142on\u0105\u0142
-p116
+p97
 aVKupi\u0142 nasz dom , jak go zlicytowali.
-p117
+p98
 aVzastawi\u0142 dom i znalaz\u0142
-p118
-aVwiem, \u017ce ca\u0142y dom jest
-p119
-aVdoda\u0107, \u017ce dom nie jest
-p120
-aVzbudujesz w\u0142asny dom , który nie jest
-p121
-aVjest dom . Jak do niego trafi\u0107
-p122
+p99
+aVzbudujesz w\u0142asny dom , który nie jest skazany
+p100
 aVpodpali\u0107 mu dom . Porwa\u0107
-p123
+p101
 aVwiemy, \u017ce ma dom pod Warszaw\u0105. Mo\u017cna
-p124
+p102
 aVobserwuj\u0105cy dom nie widzieli,
-p125
+p103
 aVpodpal\u0105 mój dom , zgwa\u0142c\u0105
-p126
+p104
 aVni\u017c dom , w którym mieszka\u0142,
-p127
+p105
 aVPrzeszukali\u015bmy dom Janczury w Karczewie. Znale\u017ali
-p128
+p106
 aVprowadzi\u0107 dom , zd\u0105\u017ca\u0107
-p129
+p107
 aVsta\u0142 obszerny, drewniany dom . - Tu b\u0119dziemy
-p130
+p108
 aVWybieg\u0142 przed dom i chocia\u017c Sask\u0105 K\u0119p\u0119 zna\u0142
-p131
+p109
 aVkl\u0105\u0142em g\u0142o\u015bno na ca\u0142y dom . Matka przera\u017cona cofn\u0119\u0142a
-p132
+p110
 aVPorzuci\u0142a m\u0119\u017ca, rodziców, dom - i bez reszty odda\u0142a
-p133
-aVprzekroczy\u0107 granic\u0119. Ca\u0142y dom by\u0142
-p134
+p111
 aVremontuj\u0105 dom . W\u0142a\u015bnie wymieniaj\u0105
-p135
+p112
 aVsprzeda\u0107 i dom chyl\u0105cy si\u0119 ku upadkowi poprawi\u0107
-p136
+p113
 aVkupi\u0142em par\u0119 mórg i dom kr\u0119py wysadzi\u0142em
-p137
+p114
 aVomija\u0142 nasz dom , jakby w nim l\u0119g\u0142a
-p138
+p115
 aVwyszli pod dom , wydawa\u0142o
-p139
+p116
 aVb\u0119dzie tu istny dom wariatów! Domy\u015bli\u0142em
-p140
+p117
 aVs\u0142ycha\u0107 na ca\u0142y dom , jak krzyczy,
-p141
-aVby\u0142 ostatni dom i kawa\u0142ek dalej asfalt zamienia\u0142
-p142
+p118
+aVwszed\u0142. To by\u0142 ostatni dom i kawa\u0142ek dalej asfalt zamienia\u0142
+p119
 aVZawioz\u0142em go pod dom . Mieszka\u0142
-p143
+p120
 aVwysiad\u0142 z auta. Drewniany dom sta\u0142
-p144
+p121
 aVprzewiewa\u0142 dom na wylot. Postawi\u0142em
-p145
+p122
 aVMy\u015bl\u0119, \u017ce dom nad rzek\u0105 traktowa\u0142
-p146
+p123
 aVuporz\u0105dkowa\u0107 ten dom . Nagromadzi\u0142o
-p147
-aVby\u0142 w ko\u0144cu jej dom . Z plastikowej torby wyj\u0119\u0142a
-p148
+p124
 aVzrobi\u0107 nam dom , ale nie wiedzia\u0142a
-p149
+p125
 aVMin\u0105\u0142em ostatni pi\u0119trowy dom . Dalej by\u0142o
-p150
+p126
 aVmrugn\u0105\u0142 wy\u0142upiastym okiem. Przed dom wysz\u0142a
-p151
+p127
 aVPoszed\u0142em za dom , \u015bcie\u017ck\u0105, któr\u0105 wskaza\u0142a
-p152
+p128
 aVwyszed\u0142em na chwil\u0119 przed dom , niebo wyda\u0142o
-p153
+p129
 aVwyprowadzili\u015bmy wuja Florentego przed dom . Stan\u0105\u0142
-p154
+p130
 aVwyszed\u0142 przed dom . I tak go zapami\u0119ta\u0142
-p155
+p131
 aVwybudowa\u0107 porz\u0105dny dom , naj\u0105\u0107
-p156
+p132
 aVspali\u0107 twój dom - wydusi\u0142.
-p157
+p133
 aVpokaza\u0142a brudnym paluchem za dom . Komórka okaza\u0142a
-p158
+p134
 aVkorzeni, dom okaza\u0142
-p159
+p135
 aVocaleje prawie \u017caden dom . I wyobra\u017a
-p160
+p136
 aVkupi\u0107 dom pod Nowym Jorkiem. Spojrza\u0142
-p161
+p137
 aVwyszed\u0142 przed dom i usiad\u0142
-p162
+p138
 aVwyszli przed dom oprócz Wasila, który zosta\u0142
-p163
+p139
 aVobeszli dom i weszli
-p164
+p140
 aVspalony podczas inwazji dom , kaza\u0142
-p165
+p141
 aVpodpali ojcowski dom , \u017ce wystrzela
-p166
+p142
 aVwywo\u0142uje przed dom , który szczuje
-p167
+p143
 aVtrafi\u0107 pod dom Niny, a potem przystan\u0105\u0107
-p168
+p144
 aVMin\u0105\u0142 swój dom i poszed\u0142
-p169
+p145
 aVporzuci\u0142am dom rodzinny, bo uwa\u017ca\u0142am
-p170
+p146
 aVutrzyma\u0107 dom , on to nazywa
-p171
+p147
 aVZmieni\u0142em testament i dom zapisa\u0142em
-p172
-aVby\u0142 jej dom . W ogóle kobieta powinna
-p173
+p148
 aVda\u0107 tylko dom . Od dziecka nale\u017cy
-p174
+p149
 aVnape\u0142nia\u0142 dom ha\u0142asem. Rozmawiaj\u0105c
-p175
+p150
 aVwywo\u0142ywa\u0107 pod dom . Ale raz da\u0142em
-p176
-aVWyszed\u0142em przed dom na drog\u0119. Wie\u015b by\u0142a
-p177
-aVwyjd\u017acie przed dom , cho\u0107by to by\u0142a
-p178
-aVwyszli\u015bmy ju\u017c przed dom , cho\u0107 jest
-p179
-aVLubi\u0142 ten dom , by\u0142
-p180
-aVby\u0142a droga pod mój dom , bo przecie\u017c, pami\u0119tam
-p181
+p151
 aVwyszli przed dom . - A sk\u0105d wiedzia\u0142
-p182
+p152
 aVopu\u015bci\u0142 dom . Grzegorz si\u0119gn\u0105\u0142
-p183
+p153
 aVkupi\u0142a dom . Kto ostatnio móg\u0142
-p184
+p154
 aVObszed\u0142 dom i stan\u0105\u0142
-p185
-aVzobaczy, \u017ce dom jest
-p186
+p155
+aVzobaczy, \u017ce dom jest zamkni\u0119ty,
+p156
 aVopuszczaj\u0105c dom , nie zabra\u0142
-p187
+p157
 aVwyda\u0142a na dom i samochód, jakby pragn\u0119\u0142a
-p188
+p158
 aVkupi\u0142a dom i niemal od razu dosta\u0142a
-p189
+p159
 aVPrzypomina\u0142a dom z Hiroshimy. Pop\u0119kany
-p190
+p160
 aVbyli\u015bmy dzie\u0107mi i dom kojarzy\u0142
-p191
+p161
 aVwyszed\u0142 przed dom , usiad\u0142
-p192
+p162
 aVwybudowano dom ?" zapyta\u0142a
-p193
+p163
 aVzobaczy\u0142 dom , w którym mieszka\u0142
-p194
+p164
 aVsprzeda\u0142em dom , a po po\u0142udniu zrezygnowa\u0142
-p195
+p165
 aVmie\u015bci\u0142 si\u0119 dom uciech, zbli\u017ca\u0142
-p196
+p166
 aVtraktowa\u0142 te przybytki jak swój dom . By\u0142
-p197
+p167
 aVpodrzuci\u0142 bli\u017cej dom tam jeszcze stoi
-p198
+p168
 aVpostawi\u0107 dom i zasadzi\u0107
-p199
+p169
 aVbudowa\u0142 ten dom , nie ojciec k\u0142ad\u0142
-p200
+p170
 aVprzeszukiwali dom u, wywozili
-p201
+p171
 aVprzesun\u0105\u0142 si\u0119 pojedynczy dom . Byli
-p202
+p172
 aVwyszed\u0142em przed dom . Chmury sz\u0142y
-p203
-aVsprzeda\u0107 dom . Dom by\u0142
-p204
+p173
 aVsprzeda\u0107 dom . Oczywi\u015bcie, powiedziano,
-p205
+p174
 aVzbudowa\u0142em dom , wychowa\u0142em
-p206
-aVWiem, \u017ce dom jest
-p207
+p175
+aVWiem, \u017ce dom jest w dobrym stanie,
+p176
 aVprzyj\u0105\u0142 mnie twój dom . Kotka pewnie wskoczy\u0142a
-p208
+p177
 aVwybra\u0142 mnie ten dom . Wybra\u0142
-p209
-aVjest mój dom , wi\u0119c nie zagl\u0105daj
-p210
-aVby\u0142 niski dom z irysami, nast\u0119pny ozdabia\u0142y
-p211
+p178
 aVmia\u0142am poj\u0119cia, czy dom , stoj\u0105cy
-p212
-aVnadaje. Zakamarki. Ten dom jest
-p213
+p179
 aVotaczaj\u0105cy dom . Po chwili zdumienia och\u0142on\u0119\u0142a
-p214
+p180
 aVpodoba\u0142 mi si\u0119 dom twojej babki. Ona mia\u0142a
-p215
-aVwidzisz, dom jest
-p216
+p181
 aVTrzeba opi\u0107 ten dom . Tak, to b\u0119dzie
-p217
+p182
 aVdosta\u0142a\u015b ten dom . Jeste\u015b
-p218
+p183
 aVs\u0105dz\u0119. - To ten dom go zatru\u0142
-p219
+p184
 aVprzeszuka\u0107 dom . Uschniesz
-p220
+p185
 aVodwióz\u0142 mnie pod dom by\u0142y
-p221
+p186
 aVKupuj\u0105c ten dom kupi\u0119
-p222
+p187
 aVcieszy\u0107... ten dom , \u015bciany ju\u017c wrastaj\u0105
-p223
+p188
 aVKupimy dom ? Sprzedamy
-p224
+p189
 aVogl\u0105da\u0107 przez p\u0142ot nasz dom obiecany,
-p225
+p190
 aVoplót\u0142by nam dom drutem kolczastym, wmawiaj\u0105c,
-p226
+p191
 aVkupuj\u0119 dom . Lokator dzwoni
-p227
+p192
 aVmie\u0107 dom \u2013 urz\u0105dza\u0107
-p228
+p193
 aVhucz\u0105c na ca\u0142y dom . Zag\u0142uszaj\u0105c
-p229
+p194
 aVuderzaj\u0105 w dom wichur\u0105. Nie mog\u0119
-p230
+p195
 aVprowadz\u0105c dom , zajmuj\u0105c
-p231
+p196
 aVwidz\u0119... nasz dom p\u0142acze. Zwisaj\u0105
-p232
-aVjest jej dom . My\u015bl\u0119,
-p233
+p197
 aVwywie\u017ali moich rodziców, dom przyw\u0142aszczy\u0142
-p234
-aVwybra\u0142 dla siebie dom na rynku. To by\u0142
-p235
+p198
 aVpodszed\u0142em pod sam dom . Reszta zosta\u0142a
-p236
+p199
 aV\u015bci\u0105gn\u0105\u0107 ksi\u0119dza pod dom Klary. Rozwa\u017ca\u0142em
-p237
+p200
 aVmasz dom z balkonem. Spojrza\u0142
-p238
+p201
 aVpoka\u017ce mu dom Anny. Zdrajca! Da\u0142
-p239
+p202
 aV\u015bci\u0105gn\u0105\u0142e\u015b klech\u0119 pod dom aptekarza! \u2013 zawiesi\u0142
-p240
+p203
 aVruszy\u0142em pod dom Klary. Dotar\u0142em
-p241
+p204
 aVokr\u0105\u017cali dom , wdrapywali
-p242
+p205
 aVopuszcza\u0142 dom , znów pukali
-p243
+p206
 aVsta\u0142 jego dom - patrzy\u0142a
-p244
-aVby\u0142 mu ten dom . Wchodzi\u0142o
-p245
+p207
 aVogl\u0105da swój stary, zacny dom ju\u017c rozebrany
-p246
+p208
 aVobmierz\u0142 mu dom , w którym sp\u0119dzi\u0142
-p247
+p209
 aVpowinien wyj\u015b\u0107 wprost na swój dom . Id\u0105c,
-p248
-aVjest, to i dom jest.
-p249
-aVjest dom i kto jest
-p250
+p210
 aVposprz\u0105ta\u0107 polski dom ? - Wi\u0119c kto nada\u0142
-p251
+p211
 aVMasz jaki\u015b dom , \u015blimaku? Zamiast odeprze\u0107
-p252
-aVjest ten dom , który mi obieca\u0142e\u015b
-p253
+p212
 aVzdemolowa\u0142a nam dom ? B\u0119d\u0119
-p254
-aVwzruszy\u0142 ramionami. \u2013 Ale dom jest
-p255
+p213
+aVwzruszy\u0142 ramionami. \u2013 Ale dom jest nawiedzony.
+p214
 aVnawiedzony. To przedwojenny dom , my\u015blisz,
-p256
-aVby\u0142 wtedy ca\u0142y dom , zabi\u0142
-p257
+p215
 aVObserwuje ten dom , ledwie si\u0119 deszcze sko\u0144czy\u0142y
-p258
+p216
 aVCzu\u0142a, \u017ce dom zniszczeje,
-p259
+p217
 aVu\u015bpiony dom . Wspi\u0119\u0142a
-p260
+p218
 aVposz\u0142y na dom , sam wiesz
-p261
-aVjest mój dom \u2013 powiedzia\u0142
-p262
+p219
 aVSko\u0144czy\u0142em z praktyk\u0105, dom przej\u0105\u0142
-p263
+p220
 aVobserwowa\u0142by stary dom z zewn\u0105trz, widzia\u0142by
-p264
+p221
 aVmia\u0142a ju\u017c w\u0142asny dom . Ja si\u0119 przypadkiem dowiedzia\u0142a
-p265
+p222
 aVopu\u015bci\u0142a mój dom \u2013 musia\u0142
-p266
+p223
 aVwstawia i dom nas tyle kosztuje.
-p267
+p224
 aVPodchodz\u0105c pod dom , o którym my\u015bla\u0142
-p268
+p225
 aVObserwuj\u0105c cholerny dom , wiedzia\u0142,
-p269
+p226
 aVWiedzia\u0142 to, dom mu ju\u017c podpowiedzia\u0142.
-p270
+p227
 aVBa\u0142 si\u0119 zawsze o dom , \u017ce nie podo\u0142a.
-p271
+p228
 aVczu\u0142a, \u017ce dom wysysa
-p272
+p229
 aVzas\u0142ania\u0142 jej dom roz\u0142o\u017cystymi ramionami. Buntowa\u0142a
-p273
-aVzniszczyli jego dom . Zbyt du\u017co jest
-p274
+p230
 aVodwiedzi\u0107 dom dziecka. \u2212 Przecie\u017c musz\u0119
-p275
+p231
 aVzamieni\u0142a si\u0119 w londy\u0144ski dom gie\u0142dowy. Wszyscy chcieli
-p276
+p232
 aVrozwi\u0105za\u0107 dom ? Nie s\u0142ysza\u0142am
-p277
+p233
 aVmie\u0107 w\u0142asne mieszkanie, dom , do którego si\u0119 wraca
-p278
+p234
 aVporzuci\u0107 ten nasz pierwszy dom , wyrzec
-p279
-aVznikali w por\u0119. Ten dom jest
-p280
-aVMówi\u0142em rozradowany: nasz dom , a on by\u0142
-p281
+p235
+aVznikali w por\u0119. Ten dom jest jak pu\u0142apka. S\u0142ucha\u0142
+p236
 aVuchodz\u0105c przed u\u0142anami dom podpali\u0142.
-p282
-aVwiesz najlepiej, \u017ce ca\u0142y dom by\u0142
-p283
+p237
 aVjecha\u0142 pod jego dom , gdy nagle zreflektowa\u0142
-p284
+p238
 aVutrzyma\u0107 dom , i \u017ceby matka mia\u0142a
-p285
+p239
 aVpodjecha\u0142 taksówk\u0105 pod dom i zwolni\u0142
-p286
+p240
 aVruszy\u0142 dalej. Pierwszy dom , jaki min\u0105\u0142,
-p287
+p241
 aVBy\u0142 odludkiem i dom do odludno\u015bci zmusi\u0142.
-p288
+p242
 aVodwiedzili dom Barucha i nie pytaj\u0105c
-p289
-aVwiedzia\u0142, \u017ce teraz ich dom jest
-p290
+p243
 aVznale\u017ali dom syna, kto\u015b zapomnia\u0142
-p291
+p244
 aVznalaz\u0142y swój dom . Chodzi\u0142,
-p292
+p245
 aVzauwa\u017cy\u0142a, \u017ce dom o\u017cy\u0142
-p293
+p246
 aVUmieraj\u0105cy dom Wichrów zawróci\u0142
-p294
+p247
 aVprzyje\u017cd\u017ca\u0107, dom znowu przysun\u0105\u0142
-p295
+p248
 aVta\u0144czyli, a dom posapywa\u0142,
-p296
-aVchodzi o jego dom , to najistotniejszy by\u0142
-p297
-aVjest twój dom , tu b\u0119dzie
-p298
+p249
+aVjed\u017a. Tu jest twój dom , tu b\u0119dzie
+p250
 aVwidz\u0119 dom . Nie pukam,
-p299
-aVmieszkaj\u0105 niedawno, bo dom jest
-p300
+p251
 aVlubi\u0142 dom , marzy\u0142
-p301
+p252
 aVPrzetrz\u0105sn\u0119\u0142am ca\u0142y dom i niech pan sobie wyobrazi
-p302
+p253
 aVodstawi\u0107 wóz Jolanty pod jej dom i wróci\u0107
-p303
+p254
 aVdotar\u0142a pod swój dom . Ale tam nie wesz\u0142a
-p304
+p255
 aVczeka\u0142 dom dziecka. Postanowili
-p305
-aVjest mój dom ... - powiedzia\u0142a
-p306
-aVby\u0142 tam dom dziecka. Okaza\u0142o
-p307
+p256
+aVwiem, gdzie jest mój dom ... - powiedzia\u0142a
+p257
+aVrezyduje. Ostatnio by\u0142 tam dom dziecka. Okaza\u0142o
+p258
 aVgrza\u0142y jej dom , pocz\u0119\u0142y
-p308
+p259
 aVobserwowa\u0142em ca\u0142y czas dom Niktro. Widzia\u0142em,
-p309
-aVby\u0142 nasz pierwszy ameryka\u0144ski dom . Cz\u0119sto tam chodz\u0119,
-p310
+p260
 aVutrzyma\u0107 dom . Czy ukrywa\u0142e\u015b
-p311
-aVJedziemy, a dom jego jest
-p312
+p261
 aVby\u0142oby pasa\u017cerom pod sam dom podje\u017cd\u017ca\u0107? Tak my\u015bl\u0105c,
-p313
+p262
 aVtrzeba przej\u015b\u0107 przez jej dom , \u017ceby dosta\u0107
-p314
+p263
 aVzostawi\u0142am. W Cleveland dom kupili\u015bmy,
-p315
+p264
 aVwysiadaj\u0105, ale w \u015brodku dom si\u0119 wali, tynki odpadaj\u0105
-p316
+p265
 aVstawia\u0142 dom , sz\u0142o
-p317
+p266
 aVmog\u0105 ci ten dom odebra\u0107.
-p318
+p267
 aVWy\u0142azisz rano przed dom , rosa, ptaki \u015bpiewaj\u0105
-p319
+p268
 aVznaj\u0105cy dom , nie celowa\u0142by
-p320
-aVjest twój dom ? - zwróci\u0142a
-p321
+p269
 aVsprawdzi\u0107, czy jej dom nie stoi
-p322
-aVZapraszam. - Drugi dom ? - Pierwszym jest
-p323
-aVjest pa\u0142ac. To dom naszych przodków, nale\u017cy
-p324
+p270
 aVpowita\u0107, Bóg w dom - dysza\u0142.
-p325
+p271
 aVkupi\u0142 dom . Szcz\u0119\u015bliwie nie spieni\u0119\u017cyli
-p326
+p272
 aVpokaza\u0107 pa\u0144stwu mój dom i pocz\u0119stowa\u0107
-p327
+p273
 aVpodje\u017cd\u017ca pod dom brek wype\u0142niony
-p328
+p274
 aVpodchodzi\u0142 pod dom , sylwetki obu oficerów rysowa\u0142y
-p329
+p275
 aVopu\u015bci\u0107 dom , który zapewnia\u0142
-p330
+p276
 aVPali\u0142 si\u0119 natomiast ów dom naro\u017cny, który p\u0142on\u0105\u0107
-p331
+p277
 aVobserwowa\u0107 ca\u0142y dom . - Co s\u0142ycha\u0107,
-p332
-aVocalony od zniszczenia dom jest
-p333
+p278
+aVocalony od zniszczenia dom jest piekarni\u0105 i sprzedaj\u0105
+p279
 aVnapiera\u0107 na dom . Ze wszystkich stron podnios\u0142y
-p334
+p280
 aVPrzeszuka\u0107 dom ! Doko\u0142a rozleg\u0142y
-p335
+p281
 aVodnale\u017a\u0107 \u017cywymi i dom , który opu\u015bci\u0142,
-p336
+p282
 aVobja\u015bni\u0142 j\u0105, i\u017c dom , którego szuka,
-p337
+p283
 aVw\u0142o\u017cy\u0107 okrycia i wyj\u015b\u0107 przed dom . W nocy \u015bcisn\u0105\u0142
-p338
+p284
 aVprzeszuka\u0142y z Paj\u0105kowsk\u0105 dom i stwierdzi\u0142y,
-p339
+p285
 aVwskazywa\u0142a na dom , jakby chcia\u0142a
-p340
+p286
 aVObeszli dom od ty\u0142u i zawrócili,
-p341
+p287
 aVpodjechali w\u0142a\u015bnie pod dom zwany
-p342
+p288
 aVwychodzi\u0142 przed dom ? - Nie wychodzi\u0142em
-p343
+p289
 aVprzyjechali dosy\u0107 pó\u017ano, kiedy dom ca\u0142y spa\u0142,
-p344
-aVwyszed\u0142 przed dom . Dzie\u0144 by\u0142
-p345
+p290
 aVobszed\u0142 ca\u0142y dom doko\u0142a i zajrza\u0142
-p346
+p291
 aVnapinaj\u0105 si\u0119 \u017caluzje. Ca\u0142y dom zdaje
-p347
+p292
 aVkupujemy dom , \u017ceby zaryzykowa\u0107.
-p348
+p293
 aVwtulony w pagórek dom Dobrzynkiewiczów. Zamkni\u0119te okna trzyma\u0142y
-p349
+p294
 aVWida\u0107 ju\u017c nasz dom . Ale sczernia\u0142,
-p350
+p295
 aVrozgrzany dom Pucia\u0142\u0142ów wsparty
-p351
+p296
 aVMin\u0119li dom , w którym mieszka\u0142
-p352
+p297
 aVspada na nasz dom ! - U\u017cytkowa\u0107
-p353
+p298
 aVdojdzie nad dom Skiersia, to przestan\u0119
-p354
-aVby\u0142 dom , jak si\u0119 nale\u017cy.
-p355
+p299
 aVpatrzy\u0142a na dom obejmowany
-p356
+p300
 aVwybieg\u0142a przed dom , chcia\u0142a
-p357
+p301
 aVpodje\u017cd\u017ca samochodem pod dom . Wchodzi
-p358
+p302
 aVUspokój si\u0119, bo ca\u0142y dom obudzisz...
-p359
+p303
 aVstoi dom Marii. Kiedy s\u0105
-p360
-aVnasta\u0142 \u015bwit, ca\u0142y dom by\u0142
-p361
+p304
 aVwybudowa\u0107 w\u0142asny dom , wyprowadzi\u0142
-p362
+p305
 aVobesz\u0142a ca\u0142y dom , robi\u0105c
-p363
+p306
 a.
